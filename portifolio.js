@@ -26,27 +26,29 @@ const Portfolio = () => {
       <section className="projects">
         <h2>Projetos Destacados</h2>
         {/* Lista de projetos com detalhes
-cd store management systems 
+ */cd store management systems 
 movie list management systems (HTML5, CSS, Javascript, PHP)
 pokedex (HTML5, CSS, Javascript)
 pokemon clone game
 space invaders clone game
-snake game clone (Java, python, HTML5, CSS)
- */}
+snake game clone (Java, python, HTML5, CSS)}
       </section>
       <section className="experience">
         <h2>Experiência Profissional</h2>
         {/* Detalhes sobre suas funções e realizações anteriores
+ */Computer and network technician and IT support
 Game Developer
 Graphic design and illustrator 
-Computer Technician and Network Support 
- */}
+trainee IT Technician}
       </section>
       <section className="education">
         <h2>Formação Acadêmica</h2>
         {/* Detalhes sobre suas qualificações educacionais 
 */It technician 
-        Analysis and systems development }
+        Analysis and systems development 
+Technical support in information technology
+Machine learning 
+Data visualization  }
       </section>
       <section className="contact">
         <h2>Contato</h2>
