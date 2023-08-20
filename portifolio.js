@@ -19,22 +19,34 @@ const Portfolio = () => {
           <li>Network Security</li>
           <li>Game Development</li>
           <li>Mobile Development</li>
+          <li>Software development</li>
           <li>Ruby on Rails</li>
         </ul>
       </section>
       <section className="projects">
         <h2>Projetos Destacados</h2>
-        {/* Lista de projetos com detalhes */}
+        {/* Lista de projetos com detalhes
+cd store management systems 
+movie list management systems (HTML5, CSS, Javascript, PHP)
+pokedex (HTML5, CSS, Javascript)
+pokemon clone game
+space invaders clone game
+snake game clone (Java, python, HTML5, CSS)
+ */}
       </section>
       <section className="experience">
         <h2>Experiência Profissional</h2>
-        {/* Detalhes sobre suas funções e realizações anteriores */}
+        {/* Detalhes sobre suas funções e realizações anteriores
+Game Developer
+Graphic design and illustrator 
+Computer Technician and Network Support 
+ */}
       </section>
       <section className="education">
         <h2>Formação Acadêmica</h2>
-        {/* Detalhes sobre suas qualificações educacionais */}
-        It tecnician 
-        Analysis and systems development 
+        {/* Detalhes sobre suas qualificações educacionais 
+*/It technician 
+        Analysis and systems development }
       </section>
       <section className="contact">
         <h2>Contato</h2>
