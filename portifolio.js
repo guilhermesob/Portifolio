@@ -13,11 +13,13 @@ const Portfolio = () => {
         <ul>
           <li>Cybersecurity Strategy</li>
           <li>Web Application Development</li>
-          <li>Cloud Infrastructure (AWS, Azure)</li>
+          <li>Cloud Infrastructure (AWS, Azure, GCP)</li>
           <li>Front-end Development (React)</li>
           <li>Data Analysis and Visualization</li>
           <li>Network Security</li>
           <li>Game Development</li>
+          <li>Mobile Development</li>
+          <li>Ruby on Rails</li>
         </ul>
       </section>
       <section className="projects">
@@ -31,6 +33,8 @@ const Portfolio = () => {
       <section className="education">
         <h2>Formação Acadêmica</h2>
         {/* Detalhes sobre suas qualificações educacionais */}
+        It tecnician 
+        Analysis and systems development 
       </section>
       <section className="contact">
         <h2>Contato</h2>
